@@ -28,10 +28,10 @@ I'm Nandan, a developer with experience in web and mobile app development. I’m
    
 <p>
    <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="140" />
-   <img src="https://media1.tenor.com/m/H9x-qRBiCU8AAAAC/animated-speed.gif" alt="Stickman Waving and Coding" width="200" height="140"/>
-   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" height="140"/>
-   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="CoderGIF" width="200" height="140"/>
-   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="200" height="140" />
+   <img src="https://media1.tenor.com/m/H9x-qRBiCU8AAAAC/animated-speed.gif" alt="Stickman Waving and Coding" width="200" height="130"/>
+   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" height="130"/>
+   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="CoderGIF" width="200" height="130"/>
+   <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="200" height="130" />
 
 </p>
 <h3 align="left"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> </h3>
