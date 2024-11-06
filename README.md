@@ -32,7 +32,7 @@ I'm Nandan, a developer with experience in web and mobile app development. I’m
    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" height="120"/>
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="CoderGIF" width="200" height="120"/>
    <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="200" height="120" />
-
+   <img src="https://media.giphy.com/media/LXOHWZoAQWV7b22rgI/giphy.gif" alt="Stickman Waving and Coding" width="120" />
 </p>
 <h3 align="left"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Languages and Tools:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="70"> </h3>
 
