@@ -1,8 +1,9 @@
 <p align="center">
    <a href="https://github.com/amnandan9">
-   <img src="https://readme-typing-svg.herokuapp.com?color=FF5733&center=true&lines=Welcome+to+my+GitHub!;I+am+a+Developer;Building+awesome+projects;Always+learning+new+things!" />
+   <img src="https://readme-typing-svg.herokuapp.com?color=8E44AD&center=true&lines=Welcome+to+my+GitHub!;I+am+a+Developer;Building+awesome+projects;Always+learning+new+things!" />
    </a>
 </p>
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
     <h1 align="center">
