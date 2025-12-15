@@ -17,12 +17,16 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amnandan9&label=Profile%20views&color=0e75b6&style=flat" alt="amnandan9" /> </p>
-👨‍💻 Software Developer | 💡 Problem Solver | 📱 App Enthusiast
-I'm Nandan, a developer with experience in web and mobile app development. I’m passionate about creating efficient solutions using technologies like Laravel, MySQL, Android Studio, and more. I am exploring AI-based projects like handwriting recognition and expanding my skills in full-stack development.
+👨‍💻 Software Developer | 🧠 Problem Solver | 🚀 Tech Explorer
 
-- 🔭 I’m currently working on **DigitSketcher**
-- 🎮 Developing a game around the "Big-Small-Tall" theme
-- 🌱 Learning new tools and techniques for improved app development
+Hi, I’m Nandan A M, a passionate developer who loves turning ideas into impactful digital solutions 💡. I work across web, mobile, and AI-driven systems, focusing on building secure, efficient, and scalable applications.
+
+- ⚙️ I’ve hands-on experience with Django, React, Laravel, MySQL, Android Studio, Git, and Docker, and I enjoy blending AI 🤖, cybersecurity 🔐, and blockchain ⛓️ to solve real-world problems.
+- 🌱 Currently exploring AI-based projects like handwriting recognition ✍️, cyber threat detection 🛡️, and system optimization using intelligent models.
+- 🔭 Actively building full-stack & security-focused projects, including dashboards, monitoring systems, and smart automation tools.
+- 🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles, and experimenting with new frameworks to sharpen my skills ⚡.
+
+✨ Always learning, always building, always curious.
 <h3 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">Connect with me:<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></h3> 
 <p align="left">
 <a href="https://linkedin.com/in/nandan-a-m-b87aa6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-a-m-b87aa6228" height="30" width="40" /></a>
