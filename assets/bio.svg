@@ -1,0 +1,18 @@
+<svg width="800" height="240" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes slideIn {
+      0% { transform: translateY(20px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+    .line { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; opacity: 0; animation: slideIn 1s ease-out forwards; }
+  </style>
+  <rect width="800" height="240" fill="#0a0f0b" />
+  <text x="20" y="30" fill="#68b587" class="line" style="animation-delay: 0.1s;">Hi, I'm Nandan A M, a passionate developer who loves turning ideas into impactful</text>
+  <text x="20" y="50" fill="#68b587" class="line" style="animation-delay: 0.2s;">digital solutions. I work across web, mobile, and AI-driven systems, focusing</text>
+  <text x="20" y="70" fill="#68b587" class="line" style="animation-delay: 0.3s;">on building secure, efficient, and scalable applications.</text>
+  
+  <text x="20" y="110" fill="#abd200" class="line" font-weight="bold" style="animation-delay: 0.5s;">⚙️ I've hands-on experience with Django, React, Laravel, MySQL, Android Studio, Git, Docker.</text>
+  <text x="20" y="130" fill="#abd200" class="line" font-weight="bold" style="animation-delay: 0.7s;">🌱 Currently exploring AI-based projects like handwriting recognition.</text>
+  <text x="20" y="150" fill="#abd200" class="line" font-weight="bold" style="animation-delay: 0.9s;">🔭 Actively building full-stack &amp; security-focused projects.</text>
+  <text x="20" y="170" fill="#abd200" class="line" font-weight="bold" style="animation-delay: 1.1s;">🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles.</text>
+</svg>
