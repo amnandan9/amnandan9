@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=abd200&background=0a0f0b&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=2000&color=b7d364&vCenter=true&width=400&lines=A+Passionate+Developer;Problem+Solver;Tech+Explorer" alt="Sub Title" />
+  <img src="assets/run_right.svg" alt="System Starting..." />
+  <img src="assets/run_left.svg" alt="Hi, I'm Nandan" />
 </p>
 
 <br>
@@ -35,18 +32,13 @@
 
 <br>
 
-<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=300&lines=//+BIO_DATA" alt="BIO_DATA" /></h3>
-
-> Hi, I’m **Nandan A M**, a passionate developer who loves turning ideas into impactful digital solutions. I work across web, mobile, and AI-driven systems, focusing on building secure, efficient, and scalable applications.
-
-> - ⚙️ I’ve hands-on experience with **Django, React, Laravel, MySQL, Android Studio, Git**, and **Docker**.
-> - 🌱 Currently exploring AI-based projects like **handwriting recognition**, cyber threat detection, and system optimization.
-> - 🔭 Actively building full-stack & security-focused projects, including dashboards and smart automation tools.
-> - 🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles, and experimenting with new frameworks.
+<p align="center">
+  <img src="assets/bio.svg" alt="Bio Offline Text" />
+</p>
 
 <br>
 
-<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+SYSTEM_ASSETS:+TECHNOLOGIES" alt="TECHNOLOGIES" /></h3>
+<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+SYSTEM_ASSETS:+TECHNOLOGIES" alt="TECHNOLOGIES" /></h3>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
