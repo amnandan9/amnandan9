@@ -7,10 +7,10 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide=commits&hide_border=true&border_color=0a0f0b&cache_seconds=1800" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amnandan9">
-    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&hide_border=true&cache_seconds=1800" alt="GitHub Streak Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&hide_border=true&border=0a0f0b&cache_seconds=1800" alt="GitHub Streak Stats" width="48%" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=1800" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&border_color=0a0f0b&cache_seconds=1800" alt="Top Languages" width="48%" />
   </a>
 </div>
 

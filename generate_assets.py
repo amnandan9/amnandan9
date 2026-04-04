@@ -3,6 +3,7 @@ import os
 bg_color = "#0a0f0b"
 title_color = "#abd200"
 text_color = "#68b587"
+icon_color = "#b7d364" # Brighter green for the footer
 
 # Helper for sliding headers
 def create_sliding_svg(filename, text, direction="right", color=title_color, font_size=20):
@@ -14,10 +15,10 @@ def create_sliding_svg(filename, text, direction="right", color=title_color, fon
     {text}
   </text>
 </svg>"""
-    with open(f"assets/{filename}", "w") as f:
+    with open(f"assets/{filename}", "w", encoding="utf-8") as f:
         f.write(svg)
 
-# Detailed Bio SVG to strictly mimic graph text format natively without diff markup
+# Detailed Bio SVG mapping to github specific typography metrics
 def create_bio_svg(filename):
     svg = f"""<svg width="800" height="240" xmlns="http://www.w3.org/2000/svg">
   <style>
@@ -37,7 +38,7 @@ def create_bio_svg(filename):
   <text x="20" y="150" fill="{title_color}" class="line" font-weight="bold" style="animation-delay: 0.9s;">🔭 Actively building full-stack &amp; security-focused projects.</text>
   <text x="20" y="170" fill="{title_color}" class="line" font-weight="bold" style="animation-delay: 1.1s;">🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles.</text>
 </svg>"""
-    with open(f"assets/{filename}", "w") as f:
+    with open(f"assets/{filename}", "w", encoding="utf-8") as f:
         f.write(svg)
 
 os.makedirs("assets", exist_ok=True)
@@ -48,9 +49,8 @@ create_sliding_svg("header_left.svg", "System Initialized...", "right")
 create_sliding_svg("header_right.svg", "Hi, I'm Nandan A M", "left")
 create_sliding_svg("tech_header.svg", "TECHNOLOGIES", "right")
 create_sliding_svg("conn_header.svg", "CONNECTION", "left")
-create_sliding_svg("footer_left.svg", "[ STATUS: ALWAYS LEARNING. ALWAYS BUILDING. ]", "right", color=text_color, font_size=14)
-create_sliding_svg("footer_right.svg", "I love connecting with new people, feel free to say hi!", "left", color=text_color, font_size=14)
-
+create_sliding_svg("footer_left.svg", "[ STATUS: ALWAYS LEARNING. ALWAYS BUILDING. ]", "right", color=icon_color, font_size=14)
+create_sliding_svg("footer_right.svg", "I love connecting with new people, feel free to say hi!", "left", color=icon_color, font_size=14)
 create_bio_svg("bio.svg")
 
 print("Finished! All files saved to assets/ directory.")
