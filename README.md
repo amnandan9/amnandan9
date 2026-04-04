@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=abd200&background=0a0f0b&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
 </div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -15,18 +15,10 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&theme=merko" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amnandan9">
-    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0d1117&border=39ff14&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" width="48%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0D1117&color=ffffff&line=39FF14&point=ffffff&area=true&hide_border=false&border_color=39ff14" alt="GitHub Activity Graph" width="97%" />
+    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587" alt="GitHub Streak Stats" width="48%" />
   </a>
 </div>
 
@@ -34,7 +26,15 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=false" alt="GitHub Activity Graph" width="97%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/amnandan9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&theme=merko" alt="Top Languages" width="48%" />
   </a>
 </div>
 
