@@ -1,6 +1,6 @@
-<p align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
-</p>
+</div>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -11,14 +11,34 @@
   </div>
 </div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="Top Languages" />
+    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0d1117&border=39ff14&stroke=39ff14&ring=39ff14&fire=39ff14&currStreakNum=39ff14&sideNums=39ff14&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" width="48%" />
   </a>
-</p>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/amnandan9">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0D1117&color=ffffff&line=39FF14&point=ffffff&area=true&hide_border=false&border_color=39ff14" alt="GitHub Activity Graph" width="97%" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/amnandan9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="Top Languages" width="48%" />
+  </a>
+</div>
+
+<br>
 
 👨‍💻 Software Developer | 🧠 Problem Solver | 🚀 Tech Explorer
 
