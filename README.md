@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="assets/matrix_header.svg" width="100%" alt="Matrix Hacker Header" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
+</p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: center;">
@@ -12,8 +12,12 @@
 </div>
 
 <p align="center">
-  <img src="assets/stats_graph.svg" alt="GitHub Stats" />
-  <img src="assets/lang_graph.svg" alt="Top Languages" />
+  <a href="https://github.com/amnandan9">
+    <img src="https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&title_color=39ff14&icon_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/amnandan9">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=39ff14&text_color=ffffff&bg_color=0d1117&border_color=39ff14" alt="Top Languages" />
+  </a>
 </p>
 
 👨‍💻 Software Developer | 🧠 Problem Solver | 🚀 Tech Explorer
@@ -31,7 +35,7 @@ Hi, I’m Nandan A M, a passionate developer who loves turning ideas into impact
 <a href="https://linkedin.com/in/nandan-a-m-b87aa6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-a-m-b87aa6228" height="30" width="40" /></a>
    
 <p>
-   <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="140" />
+   <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200" height="140" />
    <img src="https://media1.tenor.com/m/H9x-qRBiCU8AAAAC/animated-speed.gif" alt="Stickman Waving and Coding" width="200" height="120"/>
    <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="200" height="120"/>
    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="CoderGIF" width="200" height="120"/>
