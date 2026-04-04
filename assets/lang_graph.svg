@@ -1,0 +1,48 @@
+<svg width="300" height="195" viewBox="0 0 300 195" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header { font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif; fill: #39ff14; }
+    .lang-name { font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #ffffff; }
+    @keyframes fadeInAnimation {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    .fade { opacity: 0; animation: fadeInAnimation 1s ease-in-out forwards; animation-delay: 0.5s;}
+  </style>
+  <rect x="0.5" y="0.5" rx="4.5" height="194" width="299" fill="#0d1117" stroke="#39ff14" stroke-width="1"/>
+  
+  <g transform="translate(25, 35)">
+    <text x="0" y="0" class="header">Top Languages</text>
+  </g>
+  
+  <!-- Doughnut Chart approximation with stroke-dasharray -->
+  <g transform="translate(70, 110)" class="fade">
+    <!-- background circle -->
+    <circle r="40" cx="0" cy="0" fill="transparent" stroke="#222" stroke-width="15"/>
+    
+    <!-- Python: 40% (stroke-dasharray: 40% of 251.2 = 100) -->
+    <circle r="40" cx="0" cy="0" fill="transparent" stroke="#39ff14" stroke-width="15" stroke-dasharray="100 251.2" stroke-dashoffset="0"/>
+    
+    <!-- JavaScript: 30% (75) -->
+    <circle r="40" cx="0" cy="0" fill="transparent" stroke="#00bfff" stroke-width="15" stroke-dasharray="75 251.2" stroke-dashoffset="-100"/>
+    
+    <!-- Java: 20% (50) -->
+    <circle r="40" cx="0" cy="0" fill="transparent" stroke="#ff4500" stroke-width="15" stroke-dasharray="50 251.2" stroke-dashoffset="-175"/>
+    
+    <!-- Other: 10% (25) -->
+    <circle r="40" cx="0" cy="0" fill="transparent" stroke="#ffcf20" stroke-width="15" stroke-dasharray="26.2 251.2" stroke-dashoffset="-225"/>
+  </g>
+
+  <g transform="translate(140, 75)" class="fade">
+    <circle cx="0" cy="0" r="5" fill="#39ff14"/>
+    <text x="15" y="4" class="lang-name">Python 40%</text>
+    
+    <circle cx="0" cy="25" r="5" fill="#00bfff"/>
+    <text x="15" y="29" class="lang-name">JavaScript 30%</text>
+    
+    <circle cx="0" cy="50" r="5" fill="#ff4500"/>
+    <text x="15" y="54" class="lang-name">Java 20%</text>
+
+    <circle cx="0" cy="75" r="5" fill="#ffcf20"/>
+    <text x="15" y="79" class="lang-name">Other 10%</text>
+  </g>
+</svg>
