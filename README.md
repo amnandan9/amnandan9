@@ -1,26 +1,19 @@
-<div style="background-color: #0a0f0b; color: #68b587; padding: 20px; font-family: monospace;">
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=800&size=30&pause=1000&color=abd200&background=0a0f0b&center=true&vCenter=true&width=650&lines=System+Initialized...;I'm+Nandan+A+M;Software+Developer;%3E+Executing+Scripts..." alt="Matrix Header" />
 </p>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <h1 align="center" style="color: #abd200;">
-       Hi, I'm Nandan A M 
-    </h1>
-    <h3 align="center" style="color: #b7d364;">A Passionate Developer</h3>
-  </div>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=2000&color=b7d364&vCenter=true&width=400&lines=A+Passionate+Developer;Problem+Solver;Tech+Explorer" alt="Sub Title" />
+</p>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="assets/stats_graph.svg" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&border_color=203a27" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amnandan9">
-    <img src="assets/streak_graph.svg" alt="GitHub Streak Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&border=203a27" alt="GitHub Streak Stats" width="48%" />
   </a>
 </div>
 
@@ -28,7 +21,7 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="assets/activity_graph.svg" alt="GitHub Activity Graph" width="97%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=false" alt="GitHub Activity Graph" width="97%" />
   </a>
 </div>
 
@@ -36,26 +29,24 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="assets/lang_graph.svg" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&border_color=203a27" alt="Top Languages" width="48%" />
   </a>
 </div>
 
 <br>
 
-<h3 align="left" style="color: #abd200;">// BIO_DATA</h3>
+<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=300&lines=//+BIO_DATA" alt="BIO_DATA" /></h3>
 
-Hi, I’m <strong>Nandan A M</strong>, a passionate developer who loves turning ideas into impactful digital solutions. I work across web, mobile, and AI-driven systems, focusing on building secure, efficient, and scalable applications.
+> Hi, I’m **Nandan A M**, a passionate developer who loves turning ideas into impactful digital solutions. I work across web, mobile, and AI-driven systems, focusing on building secure, efficient, and scalable applications.
 
-<ul style="list-style-type: square; color: #68b587;">
-  <li>I’ve hands-on experience with Django, React, Laravel, MySQL, Android Studio, Git, and Docker.</li>
-  <li>Currently exploring AI-based projects like handwriting recognition, cyber threat detection, and system optimization using intelligent models.</li>
-  <li>Actively building full-stack & security-focused projects, including dashboards, monitoring systems, and smart automation tools.</li>
-  <li>Outside coding, I enjoy tech challenges, hackathons, logic puzzles, and experimenting with new frameworks to sharpen my skills.</li>
-</ul>
+> - ⚙️ I’ve hands-on experience with **Django, React, Laravel, MySQL, Android Studio, Git**, and **Docker**.
+> - 🌱 Currently exploring AI-based projects like **handwriting recognition**, cyber threat detection, and system optimization.
+> - 🔭 Actively building full-stack & security-focused projects, including dashboards and smart automation tools.
+> - 🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles, and experimenting with new frameworks.
 
 <br>
 
-<h3 align="left" style="color: #abd200;">// SYSTEM_ASSETS: TECHNOLOGIES</h3>
+<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+SYSTEM_ASSETS:+TECHNOLOGIES" alt="TECHNOLOGIES" /></h3>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -75,16 +66,13 @@ Hi, I’m <strong>Nandan A M</strong>, a passionate developer who loves turning 
 
 <br>
 
-<h3 align="left" style="color: #abd200;">// ESTABLISH_CONNECTION</h3> 
+<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+ESTABLISH_CONNECTION" alt="CONNECTION" /></h3> 
 <p align="left">
   <a href="https://linkedin.com/in/nandan-a-m-b87aa6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-a-m-b87aa6228" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<div align="center" style="font-style: italic; color: #b7d364;">
-  [ STATUS: ALWAYS LEARNING. ALWAYS BUILDING. ALWAYS CURIOUS. ]<br>
-  I love connecting with new people, so feel free to say hi! I'd be thrilled to get to know you better.
-</div>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=b7d364&center=true&vCenter=true&width=500&lines=[+STATUS:+ALWAYS+LEARNING.+ALWAYS+BUILDING.+];[+STATUS:+ALWAYS+CURIOUS.+];I+love+connecting+with+new+people,+so+feel+free+to+say+hi!" alt="Status Footer" />
 </div>
