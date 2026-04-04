@@ -1,0 +1,188 @@
+<svg width="560" height="298" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="298" fill="#0a0f0b"/>
+  
+  <g transform="translate(16,16)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#abd200" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#abd200" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#abd200" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#abd200" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#abd200" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="18" font-weight="bold">S</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">MultiLanguage</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">Rainbow Lang User</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">13pt</text>
+  </g>
+  <g transform="translate(152,16)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#b7d364" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#b7d364" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#b7d364" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="18" font-weight="bold">A</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Commits</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">High Committer</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">82pt</text>
+  </g>
+  <g transform="translate(288,16)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#b7d364" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#b7d364" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#b7d364" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="18" font-weight="bold">A</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Followers</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">Dynamic User</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">26pt</text>
+  </g>
+  <g transform="translate(424,16)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#b7d364" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#b7d364" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#b7d364" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="18" font-weight="bold">A</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Repositories</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">High Repo Creator</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">28pt</text>
+  </g>
+  <g transform="translate(16,152)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#b7d364" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#b7d364" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#b7d364" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#b7d364" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="18" font-weight="bold">A</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Experience</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">Intermediate Dev</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">15pt</text>
+  </g>
+  <g transform="translate(152,152)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#68b587" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#68b587" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#68b587" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="18" font-weight="bold">C</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Stars</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">First Star</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">7pt</text>
+  </g>
+  <g transform="translate(288,152)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#68b587" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#68b587" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#68b587" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="18" font-weight="bold">C</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">Issues</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">First Issue</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">1pt</text>
+  </g>
+  <g transform="translate(424,152)">
+    <rect width="120" height="120" rx="10" fill="#0a0f0b" stroke="#203a27" stroke-width="1.5"/>
+    
+    <!-- Trophy cup body -->
+    <path d="M42,22 L78,22 L72,52 Q60,62 60,70 L60,80 L50,80 L50,70 Q50,62 48,52 Z"
+          fill="none" stroke="#68b587" stroke-width="2.5" stroke-linejoin="round"/>
+    <!-- Cup handles -->
+    <path d="M42,28 Q30,28 30,40 Q30,52 42,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <path d="M78,28 Q90,28 90,40 Q90,52 78,48" fill="none" stroke="#68b587" stroke-width="2"/>
+    <!-- Cup base -->
+    <rect x="44" y="80" width="32" height="4" rx="2" fill="#68b587" opacity="0.8"/>
+    <rect x="38" y="84" width="44" height="5" rx="2" fill="#68b587" opacity="0.8"/>
+    
+    <!-- Grade letter -->
+    <text x="60" y="52" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="18" font-weight="bold">C</text>
+    
+    <!-- Category name -->
+    <text x="60" y="103" text-anchor="middle" fill="#abd200" font-family="monospace" font-size="9" font-weight="bold">PullRequest</text>
+    <!-- Label -->
+    <text x="60" y="113" text-anchor="middle" fill="#68b587" font-family="monospace" font-size="7.5">First Pull</text>
+    <!-- Points -->
+    <text x="60" y="122" text-anchor="middle" fill="#b7d364" font-family="monospace" font-size="7" opacity="0.8">8pt</text>
+  </g>
+</svg>
