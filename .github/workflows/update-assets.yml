@@ -1,0 +1,45 @@
+name: Update Offline Assets
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs at 00:00 UTC every day
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Generate Custom Fonts & Headers
+        run: python generate_assets.py
+
+      - name: Fetch Live Stats SVGs Offline
+        run: |
+          mkdir -p assets
+          curl -s "https://github-readme-stats.anuraghazra1.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/github_stats.svg
+          curl -s "https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&hide_border=true&cache_seconds=86400" -o assets/streak_stats.svg
+          curl -s "https://github-profile-trophy.vercel.app/?username=amnandan9&theme=merko&no-frame=true&no-bg=true&margin-w=15" -o assets/trophies.svg
+          curl -s "https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=true&cache_seconds=86400" -o assets/activity.svg
+          curl -s "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg
+
+      - name: Generate Space Shooter Contribution Game
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_user: amnandan9
+          output: assets/space-shooter.gif
+
+      - name: Commit and Push Changes Offline
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/
+          git commit -m "chore: updated offline assets with real data [skip ci]" || echo "No changes to commit"
+          git push

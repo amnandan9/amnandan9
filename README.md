@@ -7,10 +7,24 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide=commits&hide_border=true&border_color=0a0f0b&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+    <img src="assets/github_stats.svg" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/amnandan9">
-    <img src="https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&hide_border=true&border=0a0f0b&cache_seconds=1800" alt="GitHub Streak Stats" width="48%" />
+    <img src="assets/streak_stats.svg" alt="GitHub Streak Stats" width="48%" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="assets/trophies.svg" alt="GitHub Trophies" />
+</p>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/amnandan9">
+    <img src="assets/activity.svg" alt="GitHub Activity Graph" width="97%" />
   </a>
 </div>
 
@@ -18,15 +32,7 @@
 
 <div align="center">
   <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=true&cache_seconds=1800" alt="GitHub Activity Graph" width="97%" />
-  </a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/amnandan9">
-    <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&border_color=0a0f0b&cache_seconds=1800" alt="Top Languages" width="48%" />
+    <img src="assets/top_langs.svg" alt="Top Languages" width="48%" />
   </a>
 </div>
 
@@ -67,6 +73,14 @@
 <p align="left">
   <a href="https://linkedin.com/in/nandan-a-m-b87aa6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-a-m-b87aa6228" height="30" width="40" /></a>
 </p>
+
+<br>
+
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="Space shooter contribution graph" />
+</p>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
 
 <br>
 
