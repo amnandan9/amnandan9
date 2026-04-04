@@ -39,7 +39,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/bio.svg" alt="Bio Offline Text" />
+  <img src="assets/bio.svg" alt="Bio" />
 </p>
 
 <br>
