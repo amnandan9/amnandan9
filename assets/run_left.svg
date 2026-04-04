@@ -1,7 +1,7 @@
 <svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
   <rect width="800" height="40" fill="#0a0f0b" />
-  <text y="25" fill="#abd200" font-family="monospace" font-size="20" font-weight="bold">
-    <animate attributeName="x" from="800" to="-300" dur="5s" repeatCount="1" fill="freeze" />
+  <text y="25" fill="#abd200" font-family="monospace" font-size="20" font-weight="bold" text-anchor="middle">
+    <animate attributeName="x" from="1000" to="400" dur="2s" repeatCount="1" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.25 0.1 0.25 1" />
     Hi, I'm Nandan A M
   </text>
 </svg>

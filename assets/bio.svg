@@ -1,14 +1,23 @@
 <svg width="800" height="280" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes slideIn {
+      0% { transform: translateY(40px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+    .line { font-family: monospace; font-size: 14px; opacity: 0; animation: slideIn 1.5s ease-out forwards; }
+    .title { font-family: monospace; font-size: 18px; font-weight: bold; opacity: 0; animation: slideIn 1.5s ease-out forwards; }
+  </style>
   <rect width="800" height="280" fill="#0a0f0b" />
-  <text x="20" y="30" fill="#abd200" font-family="monospace" font-size="18" font-weight="bold">// BIO_DATA</text>
-  <text x="20" y="70" fill="#68b587" font-family="monospace" font-size="14">I am a passionate developer who loves turning ideas into impactful digital</text>
-  <text x="20" y="90" fill="#68b587" font-family="monospace" font-size="14">solutions. I work across web, mobile, and AI-driven systems, focusing on</text>
-  <text x="20" y="110" fill="#68b587" font-family="monospace" font-size="14">building secure, efficient, and scalable applications.</text>
+  <text x="20" y="30" fill="#abd200" class="title" style="animation-delay: 0.2s;">// BIO_DATA</text>
   
-  <text x="20" y="150" fill="#68b587" font-family="monospace" font-size="14">- I've hands-on experience with Django, React, Laravel, MySQL, Git, Docker.</text>
-  <text x="20" y="170" fill="#68b587" font-family="monospace" font-size="14">- Currently exploring AI-based projects like handwriting recognition.</text>
-  <text x="20" y="190" fill="#68b587" font-family="monospace" font-size="14">- Actively building full-stack &amp; security-focused projects.</text>
-  <text x="20" y="210" fill="#68b587" font-family="monospace" font-size="14">- Outside coding, I enjoy tech challenges, hackathons, logic puzzles.</text>
+  <text x="20" y="70" fill="#68b587" class="line" style="animation-delay: 0.6s;">I am a passionate developer who loves turning ideas into impactful digital</text>
+  <text x="20" y="90" fill="#68b587" class="line" style="animation-delay: 0.8s;">solutions. I work across web, mobile, and AI-driven systems, focusing on</text>
+  <text x="20" y="110" fill="#68b587" class="line" style="animation-delay: 1.0s;">building secure, efficient, and scalable applications.</text>
   
-  <text x="20" y="250" fill="#abd200" font-family="monospace" font-size="14" font-style="italic">Always learning, always building, always curious.</text>
+  <text x="20" y="150" fill="#68b587" class="line" style="animation-delay: 1.4s;">- I've hands-on experience with Django, React, Laravel, MySQL, Git, Docker.</text>
+  <text x="20" y="170" fill="#68b587" class="line" style="animation-delay: 1.6s;">- Currently exploring AI-based projects like handwriting recognition.</text>
+  <text x="20" y="190" fill="#68b587" class="line" style="animation-delay: 1.8s;">- Actively building full-stack &amp; security-focused projects.</text>
+  <text x="20" y="210" fill="#68b587" class="line" style="animation-delay: 2.0s;">- Outside coding, I enjoy tech challenges, hackathons, logic puzzles.</text>
+  
+  <text x="20" y="250" fill="#abd200" class="line" style="animation-delay: 2.5s; font-style: italic;">Always learning, always building, always curious.</text>
 </svg>
