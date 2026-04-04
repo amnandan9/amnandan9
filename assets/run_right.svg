@@ -1,0 +1,7 @@
+<svg width="800" height="40" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="40" fill="#0a0f0b" />
+  <text y="25" fill="#abd200" font-family="monospace" font-size="20" font-weight="bold">
+    <animate attributeName="x" from="-300" to="800" dur="5s" repeatCount="1" fill="freeze" />
+    System Initialized...
+  </text>
+</svg>

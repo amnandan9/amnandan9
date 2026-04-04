@@ -1,0 +1,14 @@
+<svg width="800" height="280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="280" fill="#0a0f0b" />
+  <text x="20" y="30" fill="#abd200" font-family="monospace" font-size="18" font-weight="bold">// BIO_DATA</text>
+  <text x="20" y="70" fill="#68b587" font-family="monospace" font-size="14">I am a passionate developer who loves turning ideas into impactful digital</text>
+  <text x="20" y="90" fill="#68b587" font-family="monospace" font-size="14">solutions. I work across web, mobile, and AI-driven systems, focusing on</text>
+  <text x="20" y="110" fill="#68b587" font-family="monospace" font-size="14">building secure, efficient, and scalable applications.</text>
+  
+  <text x="20" y="150" fill="#68b587" font-family="monospace" font-size="14">- I've hands-on experience with Django, React, Laravel, MySQL, Git, Docker.</text>
+  <text x="20" y="170" fill="#68b587" font-family="monospace" font-size="14">- Currently exploring AI-based projects like handwriting recognition.</text>
+  <text x="20" y="190" fill="#68b587" font-family="monospace" font-size="14">- Actively building full-stack &amp; security-focused projects.</text>
+  <text x="20" y="210" fill="#68b587" font-family="monospace" font-size="14">- Outside coding, I enjoy tech challenges, hackathons, logic puzzles.</text>
+  
+  <text x="20" y="250" fill="#abd200" font-family="monospace" font-size="14" font-style="italic">Always learning, always building, always curious.</text>
+</svg>
