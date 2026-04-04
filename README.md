@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="assets/run_right.svg" alt="System Starting..." />
-  <img src="assets/run_left.svg" alt="Hi, I'm Nandan" />
+  <img src="assets/header_left.svg" alt="System Starting..." />
+  <img src="assets/header_right.svg" alt="Hi, I'm Nandan" />
 </p>
 
 <br>
@@ -32,13 +32,18 @@
 
 <br>
 
-<p align="center">
-  <img src="assets/bio.svg" alt="Bio Offline Text" />
-</p>
+> Hi, I’m **Nandan A M**, a passionate developer who loves turning ideas into impactful digital solutions. I work across web, mobile, and AI-driven systems, focusing on building secure, efficient, and scalable applications.
+>
+> - ⚙️ I’ve hands-on experience with **Django, React, Laravel, MySQL, Android Studio, Git**, and **Docker**.
+> - 🌱 Currently exploring AI-based projects like **handwriting recognition**, cyber threat detection, and system optimization.
+> - 🔭 Actively building full-stack & security-focused projects, including dashboards and smart automation tools.
+> - 🎮 Outside coding, I enjoy tech challenges, hackathons, logic puzzles, and experimenting with new frameworks.
 
 <br>
 
-<h3 align="left"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+SYSTEM_ASSETS:+TECHNOLOGIES" alt="TECHNOLOGIES" /></h3>
+<p align="center">
+  <img src="assets/tech_header.svg" alt="Technologies" />
+</p>
 
 <p align="left"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
@@ -58,13 +63,17 @@
 
 <br>
 
-<h3><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=20&color=abd200&vCenter=true&width=400&lines=//+ESTABLISH_CONNECTION" alt="CONNECTION" /></h3> 
+<p align="center">
+  <img src="assets/conn_header.svg" alt="Connection" />
+</p>
+
 <p align="left">
   <a href="https://linkedin.com/in/nandan-a-m-b87aa6228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandan-a-m-b87aa6228" height="30" width="40" /></a>
 </p>
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=16&pause=3000&color=b7d364&center=true&vCenter=true&width=500&lines=[+STATUS:+ALWAYS+LEARNING.+ALWAYS+BUILDING.+];[+STATUS:+ALWAYS+CURIOUS.+];I+love+connecting+with+new+people,+so+feel+free+to+say+hi!" alt="Status Footer" />
-</div>
+<p align="center">
+  <img src="assets/footer_left.svg" alt="Status Footer 1" />
+  <img src="assets/footer_right.svg" alt="Status Footer 2" />
+</p>
