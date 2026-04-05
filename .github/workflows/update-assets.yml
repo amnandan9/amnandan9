@@ -11,6 +11,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
 
       - name: Setup Python
         uses: actions/setup-python@v4
@@ -30,11 +32,11 @@ jobs:
           curl -s "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg
 
       - name: Generate Space Shooter Contribution Game
-        uses: czl9707/gh-space-shooter@v1
+        uses: czl9707/gh-space-shooter@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          github_user: amnandan9
-          output: assets/space-shooter.gif
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: amnandan9
+          output-path: assets/space-shooter.gif
 
       - name: Commit and Push Changes Offline
         run: |
