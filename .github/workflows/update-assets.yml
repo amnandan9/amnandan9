@@ -32,11 +32,11 @@ jobs:
       - name: Fetch Live Stats SVGs Offline
         run: |
           mkdir -p assets
-          curl -sLf "https://github-readme-stats.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/github_stats.svg || echo "Warning: github_stats fetch failed"
+          curl -sLf "https://github-readme-stats-eight-theta.vercel.app/api?username=amnandan9&show_icons=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/github_stats.svg || echo "Warning: github_stats fetch failed"
           curl -sLf "https://streak-stats.demolab.com?user=amnandan9&background=0a0f0b&stroke=b7d364&ring=abd200&fire=abd200&currStreakNum=68b587&sideNums=68b587&currStreakLabel=68b587&sideLabels=68b587&dates=68b587&hide_border=true&cache_seconds=86400" -o assets/streak_stats.svg || echo "Warning: streak_stats fetch failed"
           curl -sLf "https://github-profile-trophy.vercel.app/?username=amnandan9&theme=merko&no-frame=true&no-bg=true&margin-w=15" -o assets/trophies.svg || echo "Warning: trophies fetch failed"
           curl -sLf "https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=true&cache_seconds=86400" -o assets/activity.svg || echo "Warning: activity fetch failed"
-          curl -sLf "https://github-readme-stats.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg || echo "Warning: top_langs fetch failed"
+          curl -sLf "https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg || echo "Warning: top_langs fetch failed"
 
       # Space Shooter: continue-on-error so the commit step ALWAYS runs
       # even if token issues prevent regeneration (existing GIF stays)
