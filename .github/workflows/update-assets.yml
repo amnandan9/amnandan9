@@ -11,6 +11,8 @@ permissions:
 jobs:
   update-assets:
     runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Set at job level so ALL steps can access it
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -36,11 +38,12 @@ jobs:
           curl -s "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg
 
       - name: Generate Space Shooter Contribution Game
+        continue-on-error: true # Don't fail the whole workflow if this step has issues
         run: |
           pip install gh-space-shooter --quiet
-          gh-space-shooter amnandan9 --output assets/space-shooter.gif --strategy random
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          gh-space-shooter amnandan9 \
+            --output assets/space-shooter.gif \
+            --strategy random
 
       - name: Commit and Push Changes Offline
         run: |
