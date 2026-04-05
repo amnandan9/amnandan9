@@ -35,16 +35,12 @@ jobs:
           curl -s "https://github-readme-activity-graph.vercel.app/graph?username=amnandan9&bg_color=0a0f0b&color=68b587&line=abd200&point=b7d364&area=true&hide_border=true&cache_seconds=86400" -o assets/activity.svg
           curl -s "https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amnandan9&layout=compact&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&cache_seconds=86400" -o assets/top_langs.svg
 
-      - - name: Generate Space Shooter Contribution Game
-  uses: czl9707/gh-space-shooter@v2
-  with:
-    github-token: ${{ secrets.GITHUB_TOKEN }}
-    username: amnandan9
-    output-path: assets/space-shooter.gif
-    strategy: random
-  env:
-    GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Space Shooter Contribution Game
+        run: |
+          pip install gh-space-shooter --quiet
+          gh-space-shooter amnandan9 --output assets/space-shooter.gif --strategy random
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and Push Changes Offline
         run: |
