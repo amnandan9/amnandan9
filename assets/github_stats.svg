@@ -14,14 +14,14 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #68b587;
+      font: 600 14px 'Inter', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #68b587;
     }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #68b587; 
+      font: 800 24px 'Inter', Ubuntu, Sans-Serif; fill: #68b587; 
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     
@@ -54,11 +54,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-<<<<<<< Updated upstream
         stroke-dashoffset: 127.20535176541529;
-=======
-        stroke-dashoffset: 126.26894740196717;
->>>>>>> Stashed changes
       }
     }
   
@@ -83,7 +79,6 @@
       }
     }
   
-          
         </style>
 
         undefined
@@ -111,7 +106,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Nandan A M's GitHub Stats</text>
+      >My GitHub Statistics</text>
     </g>
       </g>
     
@@ -149,7 +144,7 @@
       <text class="stat bold" x="25" y="12.5">Total Stars:</text>
       <text 
         class="stat" 
-        x="190" 
+        x="200" 
         y="12.5" 
         data-testid="stars"
       >7</text>
@@ -164,14 +159,10 @@
       <text class="stat bold" x="25" y="12.5">Total Commits (2026):</text>
       <text 
         class="stat" 
-        x="190" 
+        x="200" 
         y="12.5" 
         data-testid="commits"
-<<<<<<< Updated upstream
       >98</text>
-=======
-      >214</text>
->>>>>>> Stashed changes
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -183,7 +174,7 @@
       <text class="stat bold" x="25" y="12.5">Total PRs:</text>
       <text 
         class="stat" 
-        x="190" 
+        x="200" 
         y="12.5" 
         data-testid="prs"
       >8</text>
@@ -198,7 +189,7 @@
       <text class="stat bold" x="25" y="12.5">Total Issues:</text>
       <text 
         class="stat" 
-        x="190" 
+        x="200" 
         y="12.5" 
         data-testid="issues"
       >1</text>
@@ -213,7 +204,7 @@
       <text class="stat bold" x="25" y="12.5">Contributed to:</text>
       <text 
         class="stat" 
-        x="190" 
+        x="200" 
         y="12.5" 
         data-testid="contribs"
       >4</text>

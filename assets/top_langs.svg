@@ -13,29 +13,10 @@
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           
-    .lang-name { font: 400 11px 'Segoe UI', Ubuntu, Sans-Serif; fill: #68b587 }
+    .lang-name { font: 400 11px 'Inter', Ubuntu, Sans-Serif; fill: #68b587 }
   
 
           
-    /* Animations */
-    @keyframes scaleInAnimation {
-      from {
-        transform: translate(-5px, 5px) scale(0);
-      }
-      to {
-        transform: translate(-5px, 5px) scale(1);
-      }
-    }
-    @keyframes fadeInAnimation {
-      from {
-        opacity: 0;
-      }
-      to {
-        opacity: 1;
-      }
-    }
-  
-          * { animation-duration: 0s !important; animation-delay: 0s !important; }
         </style>
 
         undefined
@@ -63,7 +44,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >Most Used Languages</text>
+      >My Programming Languages</text>
     </g>
       </g>
     
@@ -84,7 +65,7 @@
             data-testid="lang-progress"
             x="0" 
             y="0"
-            width="131.95" 
+            width="140.54" 
             height="8"
             fill="#A97BFF"
           />
@@ -92,9 +73,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="131.95" 
+            x="140.54" 
             y="0"
-            width="79.16" 
+            width="74.47" 
             height="8"
             fill="#e34c26"
           />
@@ -102,9 +83,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="211.10999999999999" 
+            x="215.01" 
             y="0"
-            width="36.98" 
+            width="39.39" 
             height="8"
             fill="#b07219"
           />
@@ -112,9 +93,9 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="248.08999999999997" 
+            x="254.39999999999998" 
             y="0"
-            width="31.51" 
+            width="33.56" 
             height="8"
             fill="#3178c6"
           />
@@ -122,46 +103,46 @@
           <rect
             mask="url(#rect-mask)" 
             data-testid="lang-progress"
-            x="279.59999999999997" 
+            x="287.96" 
             y="0"
-            width="20.41" 
+            width="12.04" 
             height="8"
-            fill="#3572A5"
+            fill="#f1e05a"
           />
         
       
     <g transform="translate(0, 25)">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Kotlin 43.98%
+        Kotlin (46.85%)
       </text>
     </g>
   
     <g transform="translate(150, 25)">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 26.39%
+        HTML (24.82%)
       </text>
     </g>
   
     <g transform="translate(0, 50)">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Java 12.33%
+        Java (13.13%)
       </text>
     </g>
   
     <g transform="translate(150, 50)">
       <circle cx="5" cy="6" r="5" fill="#3178c6" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TypeScript 10.50%
+        TypeScript (11.19%)
       </text>
     </g>
   
     <g transform="translate(0, 75)">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 6.80%
+        JavaScript (4.01%)
       </text>
     </g>
   
