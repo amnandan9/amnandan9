@@ -34,9 +34,9 @@ jobs:
       - name: Generate Space Shooter Contribution Game
         uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           username: amnandan9
-          output-path: assets/space-shooter.gif
+          output_path: assets/space-shooter.gif
 
       - name: Commit and Push Changes Offline
         run: |
